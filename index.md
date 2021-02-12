@@ -27,7 +27,7 @@
       <div class="container">
         <div class="showcase-content">
           <h1><span class="text-primary">MALA</span> online</h1>
-          <p class="lead">Tworzymy makramy, świece aromateraputyczne, piszemy o jodze, tworzymy muzykę medytacyjną. Organizujemy warsztaty.</p>
+          <p class="lead">Tworzymy makramy, świece aromaterapeutyczne, piszemy o jodze, tworzymy muzykę medytacyjną. Organizujemy warsztaty.</p>
           <a class="btn" href="#testimonials">Nasze produkty</a>
         </div>
       </div>
